@@ -1,0 +1,28 @@
+GET http://localhost/posts
+
+###
+GET http://localhost/posts/1
+
+
+###
+POST http://localhost/posts
+content-type: application/json
+
+{
+    "name": "Anybody seen Richie?",
+    "author": "Neurotripsicks",
+    "url": "https://www.youtube.com/watch?v=4Zu1YIukylw"
+}
+
+###
+PUT http://localhost/posts/4
+content-type: application/json
+
+{
+    "name": "Bruce Lee Fight Scene",
+    "author": "JoBlo Movie Trailers",
+    "url": "https://www.youtube.com/watch?v=tlUuNg6PEXA"
+}
+
+###
+DELETE http://localhost/posts/4
