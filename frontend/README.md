@@ -1,4 +1,4 @@
-# Frontend Skills Interview
+# Frontend skills interview
 
 ## Project Details
 
