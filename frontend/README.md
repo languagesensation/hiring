@@ -8,17 +8,17 @@ Please consider this document as a set of requirements, and deliver the code nec
 
 Your mission is to write an application able to list, add, delete and update all the elements provided by the API.
 
-Your application should be writen with Javascript and React.
+Your application should be writen in **Javascript** and **React**.
 
 ## Delivery
 
-You should deliver your code and the Dockerfile necesary to run it locally.
+You should deliver your code and the **Dockerfile** necesary to run it locally.
 
 ## API
 
 To launch the API run:
 ```sh
-docker run --name hiring -d -p 80:80 languagesensation/hiring-frontend:latest
+docker run --name hiring -p 80:80 languagesensation/hiring-frontend:latest
 ```
 
 ### Endpoints
