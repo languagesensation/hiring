@@ -12,7 +12,7 @@ Your application should be writen in **Javascript** and **React**.
 
 ## Delivery
 
-You should deliver your code and the **Dockerfile** necesary to run it locally.
+You should deliver your code and the **Dockerfile** necessary to run it locally.
 
 ## API
 
