@@ -1,6 +1,6 @@
 # Frontend skills interview
 
-## Project Details
+## Project details
 
 Please consider this document as a set of requirements, and deliver the code necessary to fulfill these requirements. If a requirement seems ambiguous, state your understanding of the requirements in a readme or inline comments along with your solution.
 
